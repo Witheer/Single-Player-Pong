@@ -3,7 +3,7 @@
 
 This is the first project I completed for the Google-sponsored Computer Science computing Initiative (CSSI).
 
-For this project, using the limit knowledge I had working with javaScript and p5.js, I attempted to create a pong like game. In this project I wanted to see if I could create a collision system from scratch that would update as the various objects changed in size and location.
+For this project, using the limit knowledge I had aquired so far, I attempted to create a pong like game. In this project I wanted to see if I could create a collision system from scratch that would update as the various objects changed in size and location.
 
 Controls:
 Left bar:
