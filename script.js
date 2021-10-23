@@ -1,6 +1,5 @@
 //Authors
 //P1: Armando De La Torre
-//P2: 
 
 var currentSizeLeft;
 var currentSizeRight;
